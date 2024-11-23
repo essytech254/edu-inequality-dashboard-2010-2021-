@@ -42,5 +42,13 @@ region, year, and human development group. It aims to support SDG 4 initiatives 
 - Data Source: Kaggle.
 - Inspiration: UN SDG 4.
 
+
+ ## working with the dashboard
+ - download power bi desktop
+ - clone the repository:  git clone https://github.com/essytech254/edu-inequality-dashboard-2010-2021-.git
+ - navigate into the cloned directory: cd edu-inequality-dashboard-2010-2021-
+
+
+
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request with improvements or new features.
