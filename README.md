@@ -49,6 +49,9 @@ region, year, and human development group. It aims to support SDG 4 initiatives 
  - navigate into the cloned directory: cd edu-inequality-dashboard-2010-2021-
 
 
+## Screenshots of the Dashboard
+![Dashboard](./dashboard.png)
+![Dashboard](./dashboard2.png)
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request with improvements or new features.
